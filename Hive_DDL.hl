@@ -1,4 +1,4 @@
 CREATE EXTERNAL TABLE weatherext ( wban INT, date STRING)
 ROW FORMAT DELIMITED
-FIELDS TERMINATED BY ‘,’
-LOCATION ‘ /hive/data/weatherext’;
+FIELDS TERMINATED BY â€˜,â€™
+LOCATION â€˜ /hive/data/weatherextâ€™;
