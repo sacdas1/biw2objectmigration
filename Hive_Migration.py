@@ -4,7 +4,7 @@
 # for a predetermined set of databases
 # Using org.apache.hadoop.hive.metastore.api 
 #        Class ThriftHiveMetastore.Client
-# https://hive.apache.org/javadocs/r0.11.0saAaAaasasasas/api/org/ssssapache/hadoop/hive/metastore/api/ThriftHiveMetastore.Client.html 
+# https://hive.apache.org/javadocs/r0.11.0saAaAadddasasasas/api/org/ssssapache/hadoop/hive/metastore/api/ThriftHiveMetastore.Client.html 
 
 from datetime import datetime
 import json, collections
